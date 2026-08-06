@@ -1,0 +1,1770 @@
+[
+  {
+    "code": "A1",
+    "hex": "#FAF4C8",
+    "series": "A",
+    "displayNameZh": "黄橙系 A1",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "A10",
+    "hex": "#F77C31",
+    "series": "A",
+    "displayNameZh": "黄橙系 A10",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "A11",
+    "hex": "#FFDD99",
+    "series": "A",
+    "displayNameZh": "黄橙系 A11",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "A12",
+    "hex": "#FE9F72",
+    "series": "A",
+    "displayNameZh": "黄橙系 A12",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "A13",
+    "hex": "#FFC365",
+    "series": "A",
+    "displayNameZh": "黄橙系 A13",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "A14",
+    "hex": "#FD543D",
+    "series": "A",
+    "displayNameZh": "黄橙系 A14",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "A15",
+    "hex": "#FFF365",
+    "series": "A",
+    "displayNameZh": "黄橙系 A15",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "A16",
+    "hex": "#FFFF9F",
+    "series": "A",
+    "displayNameZh": "黄橙系 A16",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "A17",
+    "hex": "#FFE36E",
+    "series": "A",
+    "displayNameZh": "黄橙系 A17",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "A18",
+    "hex": "#FEBE7D",
+    "series": "A",
+    "displayNameZh": "黄橙系 A18",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "A19",
+    "hex": "#FD7C72",
+    "series": "A",
+    "displayNameZh": "黄橙系 A19",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "A2",
+    "hex": "#FFFFD5",
+    "series": "A",
+    "displayNameZh": "黄橙系 A2",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "A20",
+    "hex": "#FFD568",
+    "series": "A",
+    "displayNameZh": "黄橙系 A20",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "A21",
+    "hex": "#FFE395",
+    "series": "A",
+    "displayNameZh": "黄橙系 A21",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "A22",
+    "hex": "#F4F57D",
+    "series": "A",
+    "displayNameZh": "黄橙系 A22",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "A23",
+    "hex": "#E6C9B7",
+    "series": "A",
+    "displayNameZh": "黄橙系 A23",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "A24",
+    "hex": "#F7F8A2",
+    "series": "A",
+    "displayNameZh": "黄橙系 A24",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "A25",
+    "hex": "#FFD67D",
+    "series": "A",
+    "displayNameZh": "黄橙系 A25",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "A26",
+    "hex": "#FFC830",
+    "series": "A",
+    "displayNameZh": "黄橙系 A26",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "A3",
+    "hex": "#FEFF8B",
+    "series": "A",
+    "displayNameZh": "黄橙系 A3",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "A4",
+    "hex": "#FBED56",
+    "series": "A",
+    "displayNameZh": "黄橙系 A4",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "A5",
+    "hex": "#F4D738",
+    "series": "A",
+    "displayNameZh": "黄橙系 A5",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "A6",
+    "hex": "#FEAC4C",
+    "series": "A",
+    "displayNameZh": "黄橙系 A6",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "A7",
+    "hex": "#FE8B4C",
+    "series": "A",
+    "displayNameZh": "黄橙系 A7",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "A8",
+    "hex": "#FFDA45",
+    "series": "A",
+    "displayNameZh": "黄橙系 A8",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "A9",
+    "hex": "#FF995B",
+    "series": "A",
+    "displayNameZh": "黄橙系 A9",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "B1",
+    "hex": "#E6EE31",
+    "series": "B",
+    "displayNameZh": "绿色系 B1",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "B10",
+    "hex": "#95D3C2",
+    "series": "B",
+    "displayNameZh": "绿色系 B10",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "B11",
+    "hex": "#5D722A",
+    "series": "B",
+    "displayNameZh": "绿色系 B11",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "B12",
+    "hex": "#166F41",
+    "series": "B",
+    "displayNameZh": "绿色系 B12",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "B13",
+    "hex": "#CAEB7B",
+    "series": "B",
+    "displayNameZh": "绿色系 B13",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "B14",
+    "hex": "#ADE946",
+    "series": "B",
+    "displayNameZh": "绿色系 B14",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "B15",
+    "hex": "#2E5132",
+    "series": "B",
+    "displayNameZh": "绿色系 B15",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "B16",
+    "hex": "#C5ED9C",
+    "series": "B",
+    "displayNameZh": "绿色系 B16",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "B17",
+    "hex": "#9BB13A",
+    "series": "B",
+    "displayNameZh": "绿色系 B17",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "B18",
+    "hex": "#E6EE49",
+    "series": "B",
+    "displayNameZh": "绿色系 B18",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "B19",
+    "hex": "#24B88C",
+    "series": "B",
+    "displayNameZh": "绿色系 B19",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "B2",
+    "hex": "#63F347",
+    "series": "B",
+    "displayNameZh": "绿色系 B2",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "B20",
+    "hex": "#C2F0CC",
+    "series": "B",
+    "displayNameZh": "绿色系 B20",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "B21",
+    "hex": "#156A6B",
+    "series": "B",
+    "displayNameZh": "绿色系 B21",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "B22",
+    "hex": "#0B3C43",
+    "series": "B",
+    "displayNameZh": "绿色系 B22",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "B23",
+    "hex": "#303A21",
+    "series": "B",
+    "displayNameZh": "绿色系 B23",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "B24",
+    "hex": "#EEFCA5",
+    "series": "B",
+    "displayNameZh": "绿色系 B24",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "B25",
+    "hex": "#4E846D",
+    "series": "B",
+    "displayNameZh": "绿色系 B25",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "B26",
+    "hex": "#8D7A35",
+    "series": "B",
+    "displayNameZh": "绿色系 B26",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "B27",
+    "hex": "#CCE1AF",
+    "series": "B",
+    "displayNameZh": "绿色系 B27",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "B28",
+    "hex": "#9EE5B9",
+    "series": "B",
+    "displayNameZh": "绿色系 B28",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "B29",
+    "hex": "#C5E254",
+    "series": "B",
+    "displayNameZh": "绿色系 B29",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "B3",
+    "hex": "#9EF780",
+    "series": "B",
+    "displayNameZh": "绿色系 B3",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "B30",
+    "hex": "#E2FCB1",
+    "series": "B",
+    "displayNameZh": "绿色系 B30",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "B31",
+    "hex": "#B0E792",
+    "series": "B",
+    "displayNameZh": "绿色系 B31",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "B32",
+    "hex": "#9CAB5A",
+    "series": "B",
+    "displayNameZh": "绿色系 B32",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "B4",
+    "hex": "#5DE035",
+    "series": "B",
+    "displayNameZh": "绿色系 B4",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "B5",
+    "hex": "#35E352",
+    "series": "B",
+    "displayNameZh": "绿色系 B5",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "B6",
+    "hex": "#65E2A6",
+    "series": "B",
+    "displayNameZh": "绿色系 B6",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "B7",
+    "hex": "#3DAF80",
+    "series": "B",
+    "displayNameZh": "绿色系 B7",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "B8",
+    "hex": "#1C9C4F",
+    "series": "B",
+    "displayNameZh": "绿色系 B8",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "B9",
+    "hex": "#27523A",
+    "series": "B",
+    "displayNameZh": "绿色系 B9",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "C1",
+    "hex": "#E8FFE7",
+    "series": "C",
+    "displayNameZh": "蓝青系 C1",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "C10",
+    "hex": "#3EBCE2",
+    "series": "C",
+    "displayNameZh": "蓝青系 C10",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "C11",
+    "hex": "#28DDDE",
+    "series": "C",
+    "displayNameZh": "蓝青系 C11",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "C12",
+    "hex": "#1C334D",
+    "series": "C",
+    "displayNameZh": "蓝青系 C12",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "C13",
+    "hex": "#CDE8FF",
+    "series": "C",
+    "displayNameZh": "蓝青系 C13",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "C14",
+    "hex": "#D5FDFF",
+    "series": "C",
+    "displayNameZh": "蓝青系 C14",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "C15",
+    "hex": "#22C4C6",
+    "series": "C",
+    "displayNameZh": "蓝青系 C15",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "C16",
+    "hex": "#1557A8",
+    "series": "C",
+    "displayNameZh": "蓝青系 C16",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "C17",
+    "hex": "#04D1F6",
+    "series": "C",
+    "displayNameZh": "蓝青系 C17",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "C18",
+    "hex": "#1D3344",
+    "series": "C",
+    "displayNameZh": "蓝青系 C18",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "C19",
+    "hex": "#1887A2",
+    "series": "C",
+    "displayNameZh": "蓝青系 C19",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "C2",
+    "hex": "#A9F9FC",
+    "series": "C",
+    "displayNameZh": "蓝青系 C2",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "C20",
+    "hex": "#176DAF",
+    "series": "C",
+    "displayNameZh": "蓝青系 C20",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "C21",
+    "hex": "#BEDDFF",
+    "series": "C",
+    "displayNameZh": "蓝青系 C21",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "C22",
+    "hex": "#67B4BE",
+    "series": "C",
+    "displayNameZh": "蓝青系 C22",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "C23",
+    "hex": "#C8E2FF",
+    "series": "C",
+    "displayNameZh": "蓝青系 C23",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "C24",
+    "hex": "#7CC4FF",
+    "series": "C",
+    "displayNameZh": "蓝青系 C24",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "C25",
+    "hex": "#A9E5E5",
+    "series": "C",
+    "displayNameZh": "蓝青系 C25",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "C26",
+    "hex": "#3CAED8",
+    "series": "C",
+    "displayNameZh": "蓝青系 C26",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "C27",
+    "hex": "#D3DFFA",
+    "series": "C",
+    "displayNameZh": "蓝青系 C27",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "C28",
+    "hex": "#BBCFED",
+    "series": "C",
+    "displayNameZh": "蓝青系 C28",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "C29",
+    "hex": "#34488E",
+    "series": "C",
+    "displayNameZh": "蓝青系 C29",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "C3",
+    "hex": "#A0E2FB",
+    "series": "C",
+    "displayNameZh": "蓝青系 C3",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "C4",
+    "hex": "#41CCFF",
+    "series": "C",
+    "displayNameZh": "蓝青系 C4",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "C5",
+    "hex": "#01ACEB",
+    "series": "C",
+    "displayNameZh": "蓝青系 C5",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "C6",
+    "hex": "#50AAF0",
+    "series": "C",
+    "displayNameZh": "蓝青系 C6",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "C7",
+    "hex": "#3677D2",
+    "series": "C",
+    "displayNameZh": "蓝青系 C7",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "C8",
+    "hex": "#0F54C0",
+    "series": "C",
+    "displayNameZh": "蓝青系 C8",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "C9",
+    "hex": "#324BCA",
+    "series": "C",
+    "displayNameZh": "蓝青系 C9",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "D1",
+    "hex": "#AEB4F2",
+    "series": "D",
+    "displayNameZh": "紫色系 D1",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "D10",
+    "hex": "#361851",
+    "series": "D",
+    "displayNameZh": "紫色系 D10",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "D11",
+    "hex": "#B9BAE1",
+    "series": "D",
+    "displayNameZh": "紫色系 D11",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "D12",
+    "hex": "#DE9AD4",
+    "series": "D",
+    "displayNameZh": "紫色系 D12",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "D13",
+    "hex": "#B90095",
+    "series": "D",
+    "displayNameZh": "紫色系 D13",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "D14",
+    "hex": "#8B279B",
+    "series": "D",
+    "displayNameZh": "紫色系 D14",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "D15",
+    "hex": "#2F1F90",
+    "series": "D",
+    "displayNameZh": "紫色系 D15",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "D16",
+    "hex": "#E3E1EE",
+    "series": "D",
+    "displayNameZh": "紫色系 D16",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "D17",
+    "hex": "#C4D4F6",
+    "series": "D",
+    "displayNameZh": "紫色系 D17",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "D18",
+    "hex": "#A45EC7",
+    "series": "D",
+    "displayNameZh": "紫色系 D18",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "D19",
+    "hex": "#D8C3D7",
+    "series": "D",
+    "displayNameZh": "紫色系 D19",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "D2",
+    "hex": "#858EDD",
+    "series": "D",
+    "displayNameZh": "紫色系 D2",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "D20",
+    "hex": "#9C32B2",
+    "series": "D",
+    "displayNameZh": "紫色系 D20",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "D21",
+    "hex": "#9A009B",
+    "series": "D",
+    "displayNameZh": "紫色系 D21",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "D22",
+    "hex": "#333A95",
+    "series": "D",
+    "displayNameZh": "紫色系 D22",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "D23",
+    "hex": "#EBDAFC",
+    "series": "D",
+    "displayNameZh": "紫色系 D23",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "D24",
+    "hex": "#7786E5",
+    "series": "D",
+    "displayNameZh": "紫色系 D24",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "D25",
+    "hex": "#494FC7",
+    "series": "D",
+    "displayNameZh": "紫色系 D25",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "D26",
+    "hex": "#DFC2F8",
+    "series": "D",
+    "displayNameZh": "紫色系 D26",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "D3",
+    "hex": "#2F54AF",
+    "series": "D",
+    "displayNameZh": "紫色系 D3",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "D4",
+    "hex": "#182A84",
+    "series": "D",
+    "displayNameZh": "紫色系 D4",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "D5",
+    "hex": "#B843C5",
+    "series": "D",
+    "displayNameZh": "紫色系 D5",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "D6",
+    "hex": "#AC7BDE",
+    "series": "D",
+    "displayNameZh": "紫色系 D6",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "D7",
+    "hex": "#8854B3",
+    "series": "D",
+    "displayNameZh": "紫色系 D7",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "D8",
+    "hex": "#E2D3FF",
+    "series": "D",
+    "displayNameZh": "紫色系 D8",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "D9",
+    "hex": "#D5B9F8",
+    "series": "D",
+    "displayNameZh": "紫色系 D9",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "E1",
+    "hex": "#FDD3CC",
+    "series": "E",
+    "displayNameZh": "粉色系 E1",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "E10",
+    "hex": "#D33793",
+    "series": "E",
+    "displayNameZh": "粉色系 E10",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "E11",
+    "hex": "#FCDDD2",
+    "series": "E",
+    "displayNameZh": "粉色系 E11",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "E12",
+    "hex": "#F78FC3",
+    "series": "E",
+    "displayNameZh": "粉色系 E12",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "E13",
+    "hex": "#B5006D",
+    "series": "E",
+    "displayNameZh": "粉色系 E13",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "E14",
+    "hex": "#FFD1BA",
+    "series": "E",
+    "displayNameZh": "粉色系 E14",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "E15",
+    "hex": "#F8C7C9",
+    "series": "E",
+    "displayNameZh": "粉色系 E15",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "E16",
+    "hex": "#FFF3EB",
+    "series": "E",
+    "displayNameZh": "粉色系 E16",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "E17",
+    "hex": "#FFE2EA",
+    "series": "E",
+    "displayNameZh": "粉色系 E17",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "E18",
+    "hex": "#FFC7DB",
+    "series": "E",
+    "displayNameZh": "粉色系 E18",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "E19",
+    "hex": "#FEBAD5",
+    "series": "E",
+    "displayNameZh": "粉色系 E19",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "E2",
+    "hex": "#FEC0DF",
+    "series": "E",
+    "displayNameZh": "粉色系 E2",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "E20",
+    "hex": "#D8C7D1",
+    "series": "E",
+    "displayNameZh": "粉色系 E20",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "E21",
+    "hex": "#BD9DA1",
+    "series": "E",
+    "displayNameZh": "粉色系 E21",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "E22",
+    "hex": "#B785A1",
+    "series": "E",
+    "displayNameZh": "粉色系 E22",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "E23",
+    "hex": "#937A8D",
+    "series": "E",
+    "displayNameZh": "粉色系 E23",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "E24",
+    "hex": "#E1BCE8",
+    "series": "E",
+    "displayNameZh": "粉色系 E24",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "E3",
+    "hex": "#FFB7E7",
+    "series": "E",
+    "displayNameZh": "粉色系 E3",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "E4",
+    "hex": "#E8649E",
+    "series": "E",
+    "displayNameZh": "粉色系 E4",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "E5",
+    "hex": "#F551A2",
+    "series": "E",
+    "displayNameZh": "粉色系 E5",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "E6",
+    "hex": "#F13D74",
+    "series": "E",
+    "displayNameZh": "粉色系 E6",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "E7",
+    "hex": "#C63478",
+    "series": "E",
+    "displayNameZh": "粉色系 E7",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "E8",
+    "hex": "#FFDBE9",
+    "series": "E",
+    "displayNameZh": "粉色系 E8",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "E9",
+    "hex": "#E970CC",
+    "series": "E",
+    "displayNameZh": "粉色系 E9",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "F1",
+    "hex": "#FD957B",
+    "series": "F",
+    "displayNameZh": "红色系 F1",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "F10",
+    "hex": "#8A4526",
+    "series": "F",
+    "displayNameZh": "红色系 F10",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "F11",
+    "hex": "#5A2121",
+    "series": "F",
+    "displayNameZh": "红色系 F11",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "F12",
+    "hex": "#FD4E6A",
+    "series": "F",
+    "displayNameZh": "红色系 F12",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "F13",
+    "hex": "#F35744",
+    "series": "F",
+    "displayNameZh": "红色系 F13",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "F14",
+    "hex": "#FFA9AD",
+    "series": "F",
+    "displayNameZh": "红色系 F14",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "F15",
+    "hex": "#D30022",
+    "series": "F",
+    "displayNameZh": "红色系 F15",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "F16",
+    "hex": "#FEC2A6",
+    "series": "F",
+    "displayNameZh": "红色系 F16",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "F17",
+    "hex": "#E69C79",
+    "series": "F",
+    "displayNameZh": "红色系 F17",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "F18",
+    "hex": "#D37C46",
+    "series": "F",
+    "displayNameZh": "红色系 F18",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "F19",
+    "hex": "#C1444A",
+    "series": "F",
+    "displayNameZh": "红色系 F19",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "F2",
+    "hex": "#FC3D46",
+    "series": "F",
+    "displayNameZh": "红色系 F2",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "F20",
+    "hex": "#CD9391",
+    "series": "F",
+    "displayNameZh": "红色系 F20",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "F21",
+    "hex": "#F7B4C6",
+    "series": "F",
+    "displayNameZh": "红色系 F21",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "F22",
+    "hex": "#FDC0D0",
+    "series": "F",
+    "displayNameZh": "红色系 F22",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "F23",
+    "hex": "#F67E66",
+    "series": "F",
+    "displayNameZh": "红色系 F23",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "F24",
+    "hex": "#E698AA",
+    "series": "F",
+    "displayNameZh": "红色系 F24",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "F25",
+    "hex": "#E54B4F",
+    "series": "F",
+    "displayNameZh": "红色系 F25",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "F3",
+    "hex": "#F74941",
+    "series": "F",
+    "displayNameZh": "红色系 F3",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "F4",
+    "hex": "#FC283C",
+    "series": "F",
+    "displayNameZh": "红色系 F4",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "F5",
+    "hex": "#E7002F",
+    "series": "F",
+    "displayNameZh": "红色系 F5",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "F6",
+    "hex": "#943630",
+    "series": "F",
+    "displayNameZh": "红色系 F6",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "F7",
+    "hex": "#971937",
+    "series": "F",
+    "displayNameZh": "红色系 F7",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "F8",
+    "hex": "#BC0028",
+    "series": "F",
+    "displayNameZh": "红色系 F8",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "F9",
+    "hex": "#E2677A",
+    "series": "F",
+    "displayNameZh": "红色系 F9",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "G1",
+    "hex": "#FFE2CE",
+    "series": "G",
+    "displayNameZh": "肤棕系 G1",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "G10",
+    "hex": "#D98C39",
+    "series": "G",
+    "displayNameZh": "肤棕系 G10",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "G11",
+    "hex": "#E0C593",
+    "series": "G",
+    "displayNameZh": "肤棕系 G11",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "G12",
+    "hex": "#FFC890",
+    "series": "G",
+    "displayNameZh": "肤棕系 G12",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "G13",
+    "hex": "#B7714A",
+    "series": "G",
+    "displayNameZh": "肤棕系 G13",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "G14",
+    "hex": "#8D614C",
+    "series": "G",
+    "displayNameZh": "肤棕系 G14",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "G15",
+    "hex": "#FCF9E0",
+    "series": "G",
+    "displayNameZh": "肤棕系 G15",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "G16",
+    "hex": "#F2D9BA",
+    "series": "G",
+    "displayNameZh": "肤棕系 G16",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "G17",
+    "hex": "#78524B",
+    "series": "G",
+    "displayNameZh": "肤棕系 G17",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "G18",
+    "hex": "#FFE4CC",
+    "series": "G",
+    "displayNameZh": "肤棕系 G18",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "G19",
+    "hex": "#E07935",
+    "series": "G",
+    "displayNameZh": "肤棕系 G19",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "G2",
+    "hex": "#FFC4AA",
+    "series": "G",
+    "displayNameZh": "肤棕系 G2",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "G20",
+    "hex": "#A94023",
+    "series": "G",
+    "displayNameZh": "肤棕系 G20",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "G21",
+    "hex": "#B88558",
+    "series": "G",
+    "displayNameZh": "肤棕系 G21",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "G3",
+    "hex": "#F4C3A5",
+    "series": "G",
+    "displayNameZh": "肤棕系 G3",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "G4",
+    "hex": "#E1B383",
+    "series": "G",
+    "displayNameZh": "肤棕系 G4",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "G5",
+    "hex": "#EDB045",
+    "series": "G",
+    "displayNameZh": "肤棕系 G5",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "G6",
+    "hex": "#E99C17",
+    "series": "G",
+    "displayNameZh": "肤棕系 G6",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "G7",
+    "hex": "#9D5B3E",
+    "series": "G",
+    "displayNameZh": "肤棕系 G7",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "G8",
+    "hex": "#753832",
+    "series": "G",
+    "displayNameZh": "肤棕系 G8",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "G9",
+    "hex": "#E6B483",
+    "series": "G",
+    "displayNameZh": "肤棕系 G9",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "H1",
+    "hex": "#FDFBFF",
+    "series": "H",
+    "displayNameZh": "黑白灰系 H1",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "H10",
+    "hex": "#EEE9EA",
+    "series": "H",
+    "displayNameZh": "黑白灰系 H10",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "H11",
+    "hex": "#CECDD5",
+    "series": "H",
+    "displayNameZh": "黑白灰系 H11",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "H12",
+    "hex": "#FFF5ED",
+    "series": "H",
+    "displayNameZh": "黑白灰系 H12",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "H13",
+    "hex": "#F5ECD2",
+    "series": "H",
+    "displayNameZh": "黑白灰系 H13",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "H14",
+    "hex": "#CFD7D3",
+    "series": "H",
+    "displayNameZh": "黑白灰系 H14",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "H15",
+    "hex": "#98A6A8",
+    "series": "H",
+    "displayNameZh": "黑白灰系 H15",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "H16",
+    "hex": "#1D1414",
+    "series": "H",
+    "displayNameZh": "黑白灰系 H16",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "H17",
+    "hex": "#F1EDED",
+    "series": "H",
+    "displayNameZh": "黑白灰系 H17",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "H18",
+    "hex": "#FFFDF0",
+    "series": "H",
+    "displayNameZh": "黑白灰系 H18",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "H19",
+    "hex": "#F6EFE2",
+    "series": "H",
+    "displayNameZh": "黑白灰系 H19",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "H2",
+    "hex": "#FEFFFF",
+    "series": "H",
+    "displayNameZh": "黑白灰系 H2",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "H20",
+    "hex": "#949FA3",
+    "series": "H",
+    "displayNameZh": "黑白灰系 H20",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "H21",
+    "hex": "#FFFBE1",
+    "series": "H",
+    "displayNameZh": "黑白灰系 H21",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "H22",
+    "hex": "#CACAD4",
+    "series": "H",
+    "displayNameZh": "黑白灰系 H22",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "H23",
+    "hex": "#9A9D94",
+    "series": "H",
+    "displayNameZh": "黑白灰系 H23",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "H3",
+    "hex": "#B6B1BA",
+    "series": "H",
+    "displayNameZh": "黑白灰系 H3",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "H4",
+    "hex": "#89858C",
+    "series": "H",
+    "displayNameZh": "黑白灰系 H4",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "H5",
+    "hex": "#48464E",
+    "series": "H",
+    "displayNameZh": "黑白灰系 H5",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "H6",
+    "hex": "#2F2B2F",
+    "series": "H",
+    "displayNameZh": "黑白灰系 H6",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "H7",
+    "hex": "#000000",
+    "series": "H",
+    "displayNameZh": "黑白灰系 H7",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "H8",
+    "hex": "#E7D6DB",
+    "series": "H",
+    "displayNameZh": "黑白灰系 H8",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "H9",
+    "hex": "#EDEDED",
+    "series": "H",
+    "displayNameZh": "黑白灰系 H9",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "M1",
+    "hex": "#BCC6B8",
+    "series": "M",
+    "displayNameZh": "莫兰迪系 M1",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "M10",
+    "hex": "#C5B2BC",
+    "series": "M",
+    "displayNameZh": "莫兰迪系 M10",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "M11",
+    "hex": "#9F7594",
+    "series": "M",
+    "displayNameZh": "莫兰迪系 M11",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "M12",
+    "hex": "#644749",
+    "series": "M",
+    "displayNameZh": "莫兰迪系 M12",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "M13",
+    "hex": "#D19066",
+    "series": "M",
+    "displayNameZh": "莫兰迪系 M13",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "M14",
+    "hex": "#C77362",
+    "series": "M",
+    "displayNameZh": "莫兰迪系 M14",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "M15",
+    "hex": "#757D78",
+    "series": "M",
+    "displayNameZh": "莫兰迪系 M15",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "M2",
+    "hex": "#8AA386",
+    "series": "M",
+    "displayNameZh": "莫兰迪系 M2",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "M3",
+    "hex": "#697D80",
+    "series": "M",
+    "displayNameZh": "莫兰迪系 M3",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "M4",
+    "hex": "#E3D2BC",
+    "series": "M",
+    "displayNameZh": "莫兰迪系 M4",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "M5",
+    "hex": "#D0CCAA",
+    "series": "M",
+    "displayNameZh": "莫兰迪系 M5",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "M6",
+    "hex": "#B0A782",
+    "series": "M",
+    "displayNameZh": "莫兰迪系 M6",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "M7",
+    "hex": "#B4A497",
+    "series": "M",
+    "displayNameZh": "莫兰迪系 M7",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "M8",
+    "hex": "#B38281",
+    "series": "M",
+    "displayNameZh": "莫兰迪系 M8",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  },
+  {
+    "code": "M9",
+    "hex": "#A58767",
+    "series": "M",
+    "displayNameZh": "莫兰迪系 M9",
+    "material": "standard",
+    "sourceRef": "https://github.com/maxcleme/beadcolors/blob/29229889daab404fb30531d4bb785fd73f7f58e3/raw/mard.csv"
+  }
+]

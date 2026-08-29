@@ -90,7 +90,11 @@ function App() {
     workerRef.current = null
     taskIdRef.current = null
     setIsGenerating(false)
-    if (showNote) setStatusNote('已取消本次生成。可以调整设置后重新开始。')
+    if (showNote) {
+      setStatusNote(result
+        ? '已取消本次生成；上次完整结果仍保留，可以继续导出或调整设置。'
+        : '已取消本次生成。可以调整设置后重新开始。')
+    }
   }
 
   const handleFile = async (file: File) => {
@@ -128,8 +132,8 @@ function App() {
     }
     cancelGeneration(false)
     setActionError(null)
-    setStatusNote(null)
-    setResult(null)
+    const hasPreviousResult = Boolean(result)
+    setStatusNote(hasPreviousResult ? '正在重新生成；上次完整结果会保留到新结果完成。' : null)
     setIsGenerating(true)
     setProgress(3)
     setProgressLabel('准备图片与生成范围')
@@ -182,7 +186,7 @@ function App() {
         taskIdRef.current = null
         setIsGenerating(false)
         if (message.type === 'error') {
-          setActionError(`${message.message} 请降低图纸宽度或换一张图片后重试。`)
+          setActionError(`${message.message} 请降低图纸宽度或换一张图片后重试。${hasPreviousResult ? ' 上次完整结果仍保留。' : ''}`)
           return
         }
         setProgress(100)
@@ -196,12 +200,13 @@ function App() {
         workerRef.current = null
         taskIdRef.current = null
         setIsGenerating(false)
-        setActionError('生成 Worker 启动失败。请刷新页面后重试；若仍失败，请降低图纸宽度。')
+        setActionError(`生成 Worker 启动失败。请刷新页面后重试；若仍失败，请降低图纸宽度。${hasPreviousResult ? ' 上次完整结果仍保留。' : ''}`)
       }
       worker.postMessage({ type: 'generate', taskId, grid: sampledGrid, settings }, [sampledGrid.data.buffer])
     } catch (error) {
       setIsGenerating(false)
-      setActionError(error instanceof Error ? `${error.message} 请降低图片或图纸尺寸后重试。` : '图片处理失败，请换一张图片后重试。')
+      const recoveryNote = hasPreviousResult ? ' 上次完整结果仍保留。' : ''
+      setActionError(error instanceof Error ? `${error.message} 请降低图片或图纸尺寸后重试。${recoveryNote}` : `图片处理失败，请换一张图片后重试。${recoveryNote}`)
     }
   }
 

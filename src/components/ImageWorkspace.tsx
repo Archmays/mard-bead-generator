@@ -25,6 +25,12 @@ function previewDimensions(width: number, height: number) {
   return { width: maximum, height: Math.max(1, Math.round(maximum * height / width)) }
 }
 
+const POSITION_STEP = 0.05
+
+function clampPosition(value: number) {
+  return Math.max(-1, Math.min(1, value))
+}
+
 export function ImageWorkspace({
   source,
   layout,
@@ -65,6 +71,16 @@ export function ImageWorkspace({
     if (file) onFile(file)
   }
 
+  const moveImage = (horizontal: number, vertical: number) => {
+    onLayout({
+      ...layout,
+      offsetX: clampPosition(layout.offsetX + horizontal),
+      offsetY: clampPosition(layout.offsetY + vertical),
+    })
+  }
+
+  const positionLabel = `水平 ${Math.round(layout.offsetX * 100)}% · 垂直 ${Math.round(layout.offsetY * 100)}%`
+
   return (
     <div className="image-workspace">
       <input
@@ -97,7 +113,7 @@ export function ImageWorkspace({
             <canvas
               ref={canvasRef}
               className="source-canvas"
-              aria-label="生成范围预览，可拖动图片位置"
+              aria-label="生成范围预览，可拖动图片位置，也可使用下方方向按钮精确调整"
               role="img"
               onPointerDown={(event) => {
                 event.currentTarget.setPointerCapture(event.pointerId)
@@ -122,7 +138,7 @@ export function ImageWorkspace({
               onPointerCancel={() => { dragRef.current = null }}
             />
             <span className="preview-size-tag">{outputWidth} × {outputHeight} 格</span>
-            <span className="drag-hint">拖动调整位置</span>
+            <span className="drag-hint">拖动或用方向按钮调整</span>
           </div>
         ) : (
           <button className="empty-upload" type="button" onClick={() => fileRef.current?.click()}>
@@ -159,6 +175,19 @@ export function ImageWorkspace({
               onChange={(event) => onLayout({ ...layout, zoom: Number(event.currentTarget.value) })}
             />
           </label>
+          <div className="position-control">
+            <div className="position-heading">
+              <strong>精确位置</strong>
+              <output aria-live="polite" data-testid="image-position">{positionLabel}</output>
+            </div>
+            <div className="nudge-controls" role="group" aria-label="调整图片位置">
+              <button type="button" aria-label="图片向上移动" title="向上移动 5%" onClick={() => moveImage(0, -POSITION_STEP)}>↑</button>
+              <button type="button" aria-label="图片向左移动" title="向左移动 5%" onClick={() => moveImage(-POSITION_STEP, 0)}>←</button>
+              <button type="button" aria-label="图片向右移动" title="向右移动 5%" onClick={() => moveImage(POSITION_STEP, 0)}>→</button>
+              <button type="button" aria-label="图片向下移动" title="向下移动 5%" onClick={() => moveImage(0, POSITION_STEP)}>↓</button>
+            </div>
+            <small>每次移动 5%；支持鼠标、触控和键盘操作，重置可恢复居中。</small>
+          </div>
         </div>
       )}
       <p className="privacy-note"><span aria-hidden="true">●</span> 图片只在当前设备浏览器中处理，不会上传或保存。</p>
